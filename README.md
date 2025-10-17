@@ -60,16 +60,3 @@ jupyter nbconvert --to notebook --execute "JobInterviewGuide_Workshop\JobIntervi
 
 - Add new questions or update existing answer explanations via pull requests.
 - If you add code examples or helper scripts, include short usage notes and update this README.
-
-## License and citation
-
-Materials were prepared for course use. Check with the course instructor for permission to redistribute or reuse outside the class.
-
----
-
-If you want, I can:
-- Add a `requirements.txt` to this folder (if notebooks need packages)
-- Add a short PowerShell script to run the notebook and save outputs
-- Convert key textual content into a printable PDF
-
-Tell me which you'd like next.
